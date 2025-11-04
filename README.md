@@ -30,6 +30,6 @@ The dataset used underpins the dashboard and includes transactional sales data. 
 •	Sales distribution by product category: categories such as Technology, Furniture, Office Supplies have approximately equal shares (~31-36%) — signalling balanced product mix or opportunity for focus.
 •	Map visual shows geographic spread of sales by state/region — helpful to identify hotspots or under-performing states.
 •	Top 5 selling sub-categories (by sales): e.g., Phones (~0.33M), Chairs (~0.33M), Storage (~0.22M), Tables (~0.21M), Binders (~0.20M) — this signals high volume lines.
-## 6.Screenshots
-
 •	Top 5 profitable sub-categories (by profit): e.g., Copiers (~56 K), Phones (~45 K), Accessories (~42 K), Paper (~34 K), Binders (~30 K) — helpful to compare profit vs sales and highlight high margin lines.
+## 6.Screenshots
+https://github.com/Nayemsyed/Sales_Dashboard/blob/main/screenshot_of_sales_dashboard.png
